@@ -1,0 +1,7 @@
+name: HelpOPs
+main: pinckneyjames.HelpOPs.Main
+version: 1.0
+
+commands:
+    helpops:
+          description: Use this to alert the Operators.
